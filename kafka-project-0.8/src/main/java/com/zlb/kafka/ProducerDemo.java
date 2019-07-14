@@ -1,10 +1,6 @@
 package com.zlb.kafka;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Properties;
-import java.util.Scanner;
-
 import kafka.javaapi.producer.Producer;
 import kafka.producer.KeyedMessage;
 import kafka.producer.ProducerConfig;
